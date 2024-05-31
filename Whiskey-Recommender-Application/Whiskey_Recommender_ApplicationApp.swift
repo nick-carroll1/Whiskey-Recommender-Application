@@ -2,7 +2,7 @@
 //  Whiskey_Recommender_ApplicationApp.swift
 //  Whiskey-Recommender-Application
 //
-//  Created by Nick_Carroll_Engrain_Partner on 5/31/24.
+//  Created by Nick Carroll on 5/31/24.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct Whiskey_Recommender_ApplicationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WhiskeyListView()
         }
     }
 }

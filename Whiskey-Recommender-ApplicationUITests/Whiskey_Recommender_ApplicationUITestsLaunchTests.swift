@@ -2,7 +2,7 @@
 //  Whiskey_Recommender_ApplicationUITestsLaunchTests.swift
 //  Whiskey-Recommender-ApplicationUITests
 //
-//  Created by Nick_Carroll_Engrain_Partner on 5/31/24.
+//  Created by Nick Carroll on 5/31/24.
 //
 
 import XCTest
